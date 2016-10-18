@@ -14,5 +14,6 @@
     "build-start": "npm run build && npm run start"
   },
   "dependencies": {
+    "express": "4.14.0"
   }
 }
